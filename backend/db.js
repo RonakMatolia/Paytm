@@ -2,7 +2,7 @@
 // backend/db.js
 const mongoose = require("mongoose")
 
-mongoose.connect("mongodb+srv://admin:2ErnH50ItiLMX8LN@cluster0.ubir80z.mongodb.net/paytm");
+mongoose.connect("mongdb url");
 
 
 
